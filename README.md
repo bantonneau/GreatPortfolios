@@ -3,6 +3,8 @@
 
 https://www.safetpojskic.com/
 -also has good linkedin check out the links tiles
+![image](https://github.com/bantonneau/GreatPortfolios/assets/109747300/a477af69-e409-4ced-969d-c6cf178d4144)
+
 
 https://benscott.dev/#hero
 
