@@ -2,10 +2,12 @@
 ##links
 
 https://www.safetpojskic.com/
-
 -also has good linkedin check out the links tiles
 
 https://benscott.dev/#hero
+
+https://www.jonnycross.com/
+-this ones simple but is just smooth - could use some images for the projects
 
 ##brainstorming
 
