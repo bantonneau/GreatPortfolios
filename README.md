@@ -8,7 +8,8 @@ https://www.safetpojskic.com/
 
 https://benscott.dev/#hero
 
-https://youtu.be/erGe99-cknQ
+THIS VID IS REALLY GOOD FOR PROJECT IDEAS AND GENERAL DIRECTION
+https://www.youtube.com/watch?v=wVpXwNtIJL0
 
 https://www.jonnycross.com/
 -this ones simple but is just smooth - could use some images for the projects
