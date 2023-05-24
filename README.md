@@ -8,8 +8,20 @@ https://www.safetpojskic.com/
 
 https://benscott.dev/#hero
 
-THIS VID IS REALLY GOOD FOR PROJECT IDEAS AND GENERAL DIRECTION
+Both these vids are examples of great portfolios
+
+**A 10/10 portfolio would include**
+Portfolio
+-fully reactive to all screens
+-easy to navigate (no gimmicky shit like reveal animations on everything or wacky navigation. make it user friendly and simple
+-no dark mode. First person seeing it will be HR, not a dev
+Projects
+-2 or 3 fully fledged out full stack projects
+-set up dummy accounts for recruiters to log into that shows them dummy data (job listings, ect) so they don't have to register
+-for ecommerce set up stripe or other checkout/payment api integration
 https://www.youtube.com/watch?v=wVpXwNtIJL0
+https://www.youtube.com/watch?v=o5R70RKbFzo
+
 
 https://www.jonnycross.com/
 -this ones simple but is just smooth - could use some images for the projects
